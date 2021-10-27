@@ -2,10 +2,6 @@
 
 A simple project on Data Visualization for CSCI-40 course - the instructions can be found [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
 
-## Website
-
-I have created a simple website for this project. 
-
 ## SAT results in New York in 2010
 
 [Data Source](https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results)
