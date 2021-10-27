@@ -10,6 +10,10 @@ I have created a simple website for this project.
 
 [Data Source](https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results)
 
+<img src = SAT_figure.png>
+
 ## Enrolment in Grade 5 of primary education worldwide
+
+<img src = Enrollment_figure.png>
 
 [Data Source](http://data.un.org/Data.aspx?q=education&d=UNESCO&f=series:E_1_G5&c=2,3,5,7,9,10&s=ref_area_name:asc,time_period:desc&v=1)
